@@ -1,6 +1,6 @@
 # 📊 Recruitment Analytics Dashboard – Power BI
 
-![Banner](banner.jpeg)
+![Banner](banner.jpg)
 
 An end-to-end analytics solution built to visualize and optimize recruitment operations. This Power BI dashboard transforms raw applicant tracking data into executive-level insights, helping HR teams drive better hiring decisions.
 
